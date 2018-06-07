@@ -1,0 +1,22 @@
+body {
+		margin-right: 7px;
+		margin-left: 7px;
+		background-color: lightblue;
+		opacity: 0,9;
+		color: violet;
+}
+h2 {
+		border-bottom-style: double;
+		border-bottom-color: red green blue yellow;
+		border-bottom-right-radius: 20px;
+		border-bottom-width: thin;
+		margin-right: 7px;
+		margin-left: 7px;
+		background-color: lightgreen;
+		color: magenta;
+
+}
+p {
+		background-color: aqua;
+		color: slateblue;	
+}
